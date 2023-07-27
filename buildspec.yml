@@ -5,7 +5,7 @@ phases:
      - echo "install step"
  pre_build:
    commands:
-     - echo "pre_build step"
+     - echo "pre_build step!"
  build:
    commands:
      - echo "build step!"
